@@ -53,4 +53,5 @@ See [CONTRIBUTING.md](https://github.com/pfgithub/goilevelmod/blob/master/CONTRI
 
 ## Screenshots
 
-[![simple level](https://i.imgur.com/p65cHzZ.jpg)](https://i.imgur.com/p65cHzZ.jpg)
+[![simple level](https://i.imgur.com/sSwaKIh.jpg)](https://i.imgur.com/sSwaKIh.jpg)
+[![simple level](https://i.imgur.com/pl3kn0s.png)](https://i.imgur.com/pl3kn0s.png)
