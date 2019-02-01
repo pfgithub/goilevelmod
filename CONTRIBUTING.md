@@ -8,7 +8,7 @@ Create an issue containing your level name, the author name, the level code, the
 
 ### [Pull Request](https://github.com/pfgithub/goilevelmod)
 
-Add a new file `levels/levelname.txt` containing your level code. Edit [levels.md](https://github.com/pfgithub/goilevelmod) to add a row containing your level info.
+Add a new file `levels/levelname.txt` containing your level code. Edit [levels.md](https://github.com/pfgithub/goilevelmod/blob/master/levels.md) to add a row containing your level info.
 
 ### Discord
 
