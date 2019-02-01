@@ -50,3 +50,7 @@ Pause the game to place blocks. Blocks will be placed at your mouse cursor.
 
 ### Sharing levels
 See [CONTRIBUTING.md](https://github.com/pfgithub/goilevelmod/blob/master/CONTRIBUTING.md)
+
+## Screenshots
+
+[![simple level](https://i.imgur.com/p65cHzZ.jpg)](https://i.imgur.com/p65cHzZ.jpg)
