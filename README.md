@@ -47,3 +47,6 @@ Pause the game to place blocks. Blocks will be placed at your mouse cursor.
 ### Saving and Loading Levels  
 `Ctrl+C` = Copy level code to clipboard  
 `Ctrl+V` = Load level code  
+
+### Sharing levels
+See [CONTRIBUTING.md](CONTRIBUTING.md)
