@@ -37,7 +37,7 @@ Use `WASD` to fly, flying will reset the gravity.
 `P` = Space% Gravity  
 
 ### Placing Blocks  
-Pause the game to place blocks. Blocks will be placed at your mouse cursor.  
+Pause the game with `esc` to place blocks. Blocks will be placed at your mouse cursor.  
 `E` = Place white block. Normal friction.  
 `Alt`+`E` = Place red block. No collision.  
 `Shift`+`E` = Place aqua ice block. Zero friction.  
