@@ -1,4 +1,5 @@
-# Levels
+# [Levels](https://pfgithub.github.io/goilevelmod/levels.html)
+
 | Name                           | Author           | 🕐︎ | 😠︎ | Download                                  | Screenshots |
 |--------------------------------|------------------|-----|-----|-------------------------------------------|-------------|
 | Slope                          | MynameisLingKong | 3   | 6   | [Get Code](levels/slope.txt)              | N/A         |
