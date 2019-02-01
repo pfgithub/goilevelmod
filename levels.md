@@ -32,7 +32,8 @@
 | Default                        | Fm2              | 0   | 0   | [Get Code](levels/default.txt)            | N/A         |
 | Spoiler                        | Zuru             | 3   | 4   | [Get Code](levels/spoiler.txt)            | N/A         |
 | Don't Trust Arrows             | OuYouX           | 3   | 4.5 | [Get Code](levels/dontTrustArrows.txt)    | N/A         |
-| Zuru Isn't Good at Level Names | Zuru             | 1.6 | 2.7 | [Get Code](levels/zuruIsntGoodAtLevelNames.txt)    | N/A         |
+| Zuru Isn't Good at Level Names | Zuru             | 1.6 | 2.7 | [Get Code](levels/zuruIsntGoodAtLevelNames.txt) | N/A         |
+| It's Almost Like The Original  | Zuru             | 4 | 5 | [Get Code](levels/itsAlmostLikeTheOriginal.txt) | N/A         |
 
 
 
