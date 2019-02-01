@@ -2,7 +2,7 @@
 
 | Name | Author | Difficulty | Length | Download |
 |-|-|-|-|-|
-|Blank|Blank|Easy|Short|[Download](levels/blank.txt)|
+|Blank|Blank|Easy|Short|[Get Code](levels/blank.txt)|
 
 ## Playing Levels
 
