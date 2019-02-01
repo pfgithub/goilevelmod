@@ -1,8 +1,14 @@
 remote_theme: pfgithub/cayman
 custom_buttons:
   -
+    title: Installation and Download
+    url: index#installation
+  -
     title: Levels
     url: levels
   -
     title: Level Editing
-    url: index#level-editing
+    url: index#editing-levels
+  -
+    title: View on Github
+    url: https://github.com/pfgithub/goilevelmod
