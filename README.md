@@ -1,4 +1,4 @@
-[Installation and Download](#installation) · [Levels](levels.md)
+[Installation and Download](index#installation) · [Levels](levels.md) · [Level Editing](index#editing-levels) · [Github](https://github.com/pfgithub/goilevelmod)
 
 # [Level Maker Mod](https://pfgithub.github.io/goilevelmod) by [FM2 and others](credits.md)
 For Getting Over It with Bennett Foddy 
@@ -49,4 +49,4 @@ Pause the game to place blocks. Blocks will be placed at your mouse cursor.
 `Ctrl+V` = Load level code  
 
 ### Sharing levels
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/pfgithub/goilevelmod/blob/master/CONTRIBUTING.md)
