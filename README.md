@@ -23,7 +23,7 @@ Not Supported
 
 ## Loading Levels
 
-Find a level you want on the [levels page](levels.md). Click Download and copy the level code to your clipboard.  
+Find a level you want on the [levels page](levels.md). Click Get Code and copy the level code to your clipboard.  
 Run Getting Over It and select New Game. Press `CTRL`+`V` to load the level from your clipboard into the game.
 
 ## Editing Levels
