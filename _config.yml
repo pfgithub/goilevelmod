@@ -5,4 +5,4 @@ custom_buttons:
     url: levels
   -
     title: Level Editing
-    url: README.md#level-editing
+    url: index#level-editing
