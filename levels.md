@@ -1,8 +1,5 @@
 # Levels
 
-<!--
-| Template  | Author | Length | Difficulty | [Get Code](levels/name.txt) | N/A |
--->
 | Name                     | Author  | Length | Difficulty | Download                                      | Screenshots |
 |--------------------------|---------|--------|------------|-----------------------------------------------|-------------|
 | Slope  | MynameisLingKong | 3 | 6 | [Get Code](levels/slope.txt) | N/A |
