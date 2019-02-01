@@ -1,6 +1,6 @@
 [Installation and Download](#installation) · [Levels](levels.md)
 
-# [Level Maker Mod by fm2](https://pfgithub.github.io/goilevelmod)
+# [Level Maker Mod](https://pfgithub.github.io/goilevelmod) by [FM2 and others](credits.md)
 For Getting Over It with Bennett Foddy 
 
 ## Installation
