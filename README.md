@@ -1,4 +1,4 @@
-[Installation and Download](#installation) · [Levels](levels.md) · [Support Server](https://discord.gg/j7qpZdE)
+[Installation and Download](#installation) · [Levels](levels.md)
 
 # [Level Maker Mod by fm2](https://pfgithub.github.io/goilevelmod)
 For Getting Over It with Bennett Foddy 
