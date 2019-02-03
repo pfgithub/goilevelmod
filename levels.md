@@ -4,13 +4,24 @@
 
 | Name                           | Author    | 🕐︎ | 😠︎ | Download                                        |
 |--------------------------------|-----------|-----|-----|-------------------------------------------------|
-| Zuru Isn't Good at Level Names | Zuru      | 1.6 | 2.7 | [Get Code](levels/zuruIsntGoodAtLevelNames.txt) |
-| It's Almost Like The Original  | Zuru      | 4   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) |
-| Oof                            | Derpidude | 5   | 3   | [Get Code](levels/oof.txt)                      |
-| Taller Tower                   | pfg       | 5   | 5   | [Get Code](levels/tallertower.txt)              |
-| Spoiler                        | Zuru      | 3   | 4   | [Get Code](levels/spoiler.txt)                  |
+| It's Almost Like The Original  | Zuru      | 8   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) |
+| Taller Tower                   | pfg       | 8   | 5   | [Get Code](levels/tallertower.txt)              |
+| Spoiler                        | Zuru      | 4   | 4   | [Get Code](levels/spoiler.txt)                  |
+| The Cliffs To Slippery  | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/theCliffsToSlippery.txt)      |
+| Oof                            | Derpidude | 3   | 3   | [Get Code](levels/oof.txt)                      |
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              |
 
+<!--
+🕐︎ Where does your level end?
+1 = Tutorial
+2 = Chimney
+3 = Furniture
+4 = Orange
+5 = Anvil
+6 = Bucket
+7 = Ice Mountain
+8 = Space
+-->
 
 ### [More Levels](https://docs.google.com/spreadsheets/d/1PiDh_Kk8_2RwIr03tHOT1qwdlY102GMFQ6_wALynjrA/edit?usp=sharing)
 
