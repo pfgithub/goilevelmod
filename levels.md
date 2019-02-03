@@ -2,7 +2,7 @@
 
 > Levels are for [version 2.x](https://github.com/pfgithub/goilevelmod/releases). Version 1 is not supported.
 
-| Name                           | Author    | 🕐︎ | 😠︎ | Download                                        |
+| Name                           | Author    | 🕐︎ ▼ | 😠︎ | Download                                        |
 |--------------------------------|-----------|-----|-----|-------------------------------------------------|
 | It's Almost Like The Original  | Zuru      | 8   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) |
 | Taller Tower                   | pfg       | 8   | 5   | [Get Code](levels/tallertower.txt)              |
