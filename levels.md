@@ -10,6 +10,7 @@
 | The Cliffs To Slippery  | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/theCliffsToSlippery.txt)      |
 | Oof                            | Derpidude | 3   | 3   | [Get Code](levels/oof.txt)                      |
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              |
+| Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 |
 
 <!--
 🕐︎ Where does your level end?
