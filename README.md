@@ -40,6 +40,8 @@ Run Getting Over It and select New Game to make a level. If a level is already l
 `WASD` - Move
 Hold `Left Click` and press `Right Click` - Move starting point.
 
+Stack blocks in a certain direction by clicking in the direction you want to stack on another block. [Screenshot](https://i.imgur.com/fXKT5Ld.png)
+
 **Blocks**:
 - White - Default
 - Aqua - Ice (0 friction)
