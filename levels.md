@@ -7,7 +7,7 @@
 | Zuru Isn't Good at Level Names | Zuru      | 1.6 | 2.7 | [Get Code](levels/zuruIsntGoodAtLevelNames.txt) |
 | It's Almost Like The Original  | Zuru      | 4   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) |
 | Oof                            | Derpidude | 5   | 3   | [Get Code](levels/oof.txt)                      |
-| Taller Tower                   | pfg       | 6   | 5   | [Get Code](levels/tallertower.txt)              |
+| Taller Tower                   | pfg       | 5   | 5   | [Get Code](levels/tallertower.txt)              |
 | Spoiler                        | Zuru      | 3   | 4   | [Get Code](levels/spoiler.txt)                  |
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              |
 
