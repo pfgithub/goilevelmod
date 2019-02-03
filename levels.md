@@ -2,13 +2,14 @@
 
 > Levels are for [version 2.x](https://github.com/pfgithub/goilevelmod/releases). Version 1 is not supported.
 
-| Name                           | Author           | 🕐︎ | 😠︎ | Download                                  | Screenshots |
-|--------------------------------|------------------|-----|-----|-------------------------------------------|-------------|
-| Zuru Isn't Good at Level Names | Zuru             | 1.6 | 2.7 | [Get Code](levels/zuruIsntGoodAtLevelNames.txt) | N/A         |
-| It's Almost Like The Original  | Zuru             | 4 | 5 | [Get Code](levels/itsAlmostLikeTheOriginal.txt) | N/A         |
-| Oof  | Derpidude             | 5 | 3 | [Get Code](levels/oof.txt) | N/A         |
-| Taller Tower  | pfg             |6 | 5 | [Get Code](levels/tallertower.txt) | N/A         |
-| Spoiler                        | Zuru             | 3   | 4   | [Get Code](levels/spoiler.txt)            | N/A         |
+| Name                           | Author    | 🕐︎ | 😠︎ | Download                                        |
+|--------------------------------|-----------|-----|-----|-------------------------------------------------|
+| Zuru Isn't Good at Level Names | Zuru      | 1.6 | 2.7 | [Get Code](levels/zuruIsntGoodAtLevelNames.txt) |
+| It's Almost Like The Original  | Zuru      | 4   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) |
+| Oof                            | Derpidude | 5   | 3   | [Get Code](levels/oof.txt)                      |
+| Taller Tower                   | pfg       | 6   | 5   | [Get Code](levels/tallertower.txt)              |
+| Spoiler                        | Zuru      | 3   | 4   | [Get Code](levels/spoiler.txt)                  |
+
 
 ### [More Levels](https://docs.google.com/spreadsheets/d/1PiDh_Kk8_2RwIr03tHOT1qwdlY102GMFQ6_wALynjrA/edit?usp=sharing)
 
