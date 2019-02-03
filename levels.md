@@ -1,5 +1,7 @@
 # [Levels](https://pfgithub.github.io/goilevelmod/levels.html)
 
+> Levels updated for [V2](https://github.com/pfgithub/goilevelmod/releases)
+
 | Name                           | Author           | 🕐︎ | 😠︎ | Download                                  | Screenshots |
 |--------------------------------|------------------|-----|-----|-------------------------------------------|-------------|
 | Zuru Isn't Good at Level Names | Zuru             | 1.6 | 2.7 | [Get Code](levels/zuruIsntGoodAtLevelNames.txt) | N/A         |
