@@ -69,13 +69,29 @@ Mode - Choose gravity (Original/Space/Right)
 
 ### Saving and Loading Levels  
 
-> **Important Note**: You cannot save your level until you beat them. Your level will automatically be copied once you beat it.
+> **Important Note**: You cannot save your level until you beat them. Your level will automatically be copied once you beat it. See [verifying levels](#verifying-levels) for more information.
 
 `Ctrl+C` = Copy level code to clipboard  
 `Ctrl+V` = Load level from clipboard
 
-### Sharing levels
-See [CONTRIBUTING.md](https://github.com/pfgithub/goilevelmod/blob/master/CONTRIBUTING.md)
+### Verifying Levels
+
+Before you can save your level, you have to verify it. Make sure both flight and zoom are disabled. Exit editing mode and press `CTRL`+`R` to start verifying. Once you beat your level, it will be copied so you can share it.
+
+### Sharing levels  
+
+#### [Issue](https://github.com/pfgithub/goilevelmod/issues)
+
+Create an issue containing your level name, the author name, the level code, the difficulty, and the length.
+
+#### [Pull Request](https://github.com/pfgithub/goilevelmod)
+
+Add a new file `levels/levelname.txt` containing your level code. Edit [levels.md](https://github.com/pfgithub/goilevelmod/blob/master/levels.md) to add a row containing your level info.
+
+#### Discord
+
+@me and I'll add it. I'm on the GOI reward discord, speedrun discord, and GOIMP discord as pfg#4865.
+
 
 ## Screenshots
 
