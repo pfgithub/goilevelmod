@@ -7,7 +7,11 @@ For Getting Over It with Bennett Foddy
 
 ---
 
-Download the latest version from the [Releases page](https://github.com/pfgithub/goilevelmod/releases). Get the normal DLL for a standard install, or the GOIMP DLL if you have the [multiplayer mod](https://forum.facepunch.com/f/games/ujqm/Try-my-multiplayer-mod-for-Getting-Over-It-with-Bennett-Foddy/5/) installed.
+Download the latest version from the [Releases page](https://github.com/pfgithub/goilevelmod/releases). See below for which file to download.
+
+Standard - `Assembly-CSharp-1.5861-LevelMakerX.X-fm2.dll`  
+
+Multiplayer - Requires the [multiplayer mod](https://forum.facepunch.com/f/games/ujqm/Try-my-multiplayer-mod-for-Getting-Over-It-with-Bennett-Foddy/5/) to be installed before installing level maker. `Assembly-CSharp-1.5861MP-LevelMakerX.X-fm2.dll`
 
 #### Windows/Linux
 
@@ -22,6 +26,10 @@ Delete `Assembly-CSharp.dll`. Move the modded DLL there and rename it to `Assemb
 #### iOS/Android
 
 Not Supported
+
+#### Uninstall
+
+Right click Getting Over It on Steam and go to Properties > Local Files > Verify Integrity of Game Files.
 
 ## Playing Levels
 
