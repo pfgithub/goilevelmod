@@ -17,4 +17,4 @@
 
 ## Playing Levels
 
-More info on the [main page](README.md)
+More info in: [Playing Levels](https://pfgithub.github.io/goilevelmod/index#playing-levels)
