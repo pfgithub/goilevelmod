@@ -60,7 +60,7 @@ Stack blocks in a certain direction by clicking in the direction you want to sta
 Flying - Enables/disables flying with WASD while in playing mode.  
 Zooming - Enables/disables zooming with `Up`/`Down` while in playing mode.  
 
-> Note: You cannot save your level with Flying or Zooming enabled.
+> Note: You cannot verify your level with Flying or Zooming enabled.
 
 Editing - Enables/disables editing your level.
 
@@ -75,16 +75,16 @@ Mode - Choose gravity (Original/Space/Right)
 
 ### Saving and Loading Levels  
 
-> **Important Note**: You cannot save your level until you beat them. Your level will automatically be copied once you beat it. See [verifying levels](#verifying-levels) for more information.
-
 `Ctrl+C` = Copy level code to clipboard  
 `Ctrl+V` = Load level from clipboard
 
 ### Verifying Levels
 
-Before you can save your level, you have to verify it. Make sure both flight and zoom are disabled. Exit editing mode and press `CTRL`+`R` to start verifying. Once you beat your level, it will be copied so you can share it.
+Before you can submit your level, you have to verify it. Make sure both flight and zoom are disabled. Exit editing mode and press `CTRL`+`R` to start verifying. Once you beat your level, the verified code will be copied so you can share it. If you edit your level again after that, you will need to verify it again.
 
 ### Sharing levels  
+
+> Make sure you verify your level before you submit it. (see above)
 
 #### [Issue](https://github.com/pfgithub/goilevelmod/issues)
 
