@@ -104,7 +104,11 @@ Add a new file `levels/levelname.txt` containing your level code. Edit [levels.m
 
 #### Discord
 
-@me and I'll add it. I'm on the GOI reward discord, speedrun discord, and GOIMP discord as pfg#4865.
+@pfg#4865 and I'll add it. I'm on the GOI reward discord, speedrun discord, and GOIMP discord.
+
+#### Steam Forums
+
+Reply with your map name, length, and difficulty and I'll add the map.
 
 
 ## Screenshots
