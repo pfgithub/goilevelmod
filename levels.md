@@ -1,6 +1,6 @@
 # [Levels](https://pfgithub.github.io/goilevelmod/levels.html)
 
-> Levels are for [version 2.x or later](https://github.com/pfgithub/goilevelmod/releases). Version 1 is not supported.
+> Levels are for [version 2.x](https://github.com/pfgithub/goilevelmod/releases). Version 1 is not supported.
 
 | Name                           | Author           | 🕐︎ | 😠︎ | Download                                  | Screenshots |
 |--------------------------------|------------------|-----|-----|-------------------------------------------|-------------|
