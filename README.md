@@ -28,25 +28,49 @@ Run Getting Over It and select New Game. Press `CTRL`+`V` to load the level from
 
 ## Editing Levels
 
-Run Getting Over It and select New Game to start editing a level.
+Run Getting Over It and select New Game to make a level. If a level is already loaded, copy `blank` and paste it in-game to clear the level.
 
-### Gravity  
-Use `WASD` to fly, flying will reset the gravity.  
-`O` = Standard Gravity  
-`I` = Right Gravity  
-`P` = Space% Gravity  
+### Editing Mode
 
-### Placing Blocks  
-Pause the game with `esc` to place blocks. Blocks will be placed at your mouse cursor.  
-`E` = Place white block. Normal friction.  
-`Alt`+`E` = Place red block. No collision.  
-`Shift`+`E` = Place aqua ice block. Zero friction.  
-`Ctrl`+`E` = Place purple circle. Normal friction.  
-`R` = Move the ending block. Ends the game when touched with the pot.  
+`E` - Toggle editing mode.  
+`Left Click` - Place a block at your cursor.  
+`Right Click` - Delete a block under your cursor.  
+`Scroll Wheel` - Switch blocks.  
+`Middle Click` - Set end point.  
+`WASD` - Move
+Hold `Left Click` and press `Right Click` - Move starting point.
+
+**Blocks**:
+- White - Default
+- Aqua - Ice (0 friction)
+- Red - Background (no collision)
+- Light Purple - Circle
+- Pure White - Text (Edit text with the "Demo Text" field in the top left corner)
+- Gray - Falling Block
+
+**Toggles**  
+Flying - Enables/disables flying with WASD while in playing mode.  
+Zooming - Enables/disables zooming with `Up`/`Down` while in playing mode.  
+
+> Note: You cannot save your level with Flying or Zooming enabled.
+
+Editing - Enables/disables editing your level.
+
+> Note: After you disable editing, you cannot go back into editing mode again. Keep it enabled.
+
+Mode - Choose gravity (Original/Space/Right)
+
+### Playing Mode
+
+`WASD` - Fly (when enabled in editing mode)
+`Up`/`Down` - Zoom In/Out (when enabled in editing mode)
 
 ### Saving and Loading Levels  
+
+> Note: You cannot save your level until you beat it. Your level will automatically be copied once you beat it.
+
 `Ctrl+C` = Copy level code to clipboard  
-`Ctrl+V` = Load level code  
+`Ctrl+V` = Load level from clipboard
 
 ### Sharing levels
 See [CONTRIBUTING.md](https://github.com/pfgithub/goilevelmod/blob/master/CONTRIBUTING.md)
