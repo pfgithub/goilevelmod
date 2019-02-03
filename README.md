@@ -69,7 +69,7 @@ Mode - Choose gravity (Original/Space/Right)
 
 ### Saving and Loading Levels  
 
-> Note: You cannot save your level until you beat it. Your level will automatically be copied once you beat it.
+> **Important Note: You cannot save your level until you beat it. Your level will automatically be copied once you beat it.**
 
 `Ctrl+C` = Copy level code to clipboard  
 `Ctrl+V` = Load level from clipboard
