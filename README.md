@@ -5,6 +5,8 @@ For Getting Over It with Bennett Foddy
 
 ## Installation
 
+---
+
 Download the latest version from the [Releases page](https://github.com/pfgithub/goilevelmod/releases). Get the normal DLL for a standard install, or the GOIMP DLL if you have the [multiplayer mod](https://forum.facepunch.com/f/games/ujqm/Try-my-multiplayer-mod-for-Getting-Over-It-with-Bennett-Foddy/5/) installed.
 
 #### Windows/Linux
@@ -21,12 +23,16 @@ Delete `Assembly-CSharp.dll`. Move the modded DLL there and rename it to `Assemb
 
 Not Supported
 
-## Loading Levels
+## Playing Levels
+
+---
 
 Find a level you want on the [levels page](levels.md). Click Get Code and copy the level code to your clipboard.  
 Run Getting Over It and select New Game. Press `CTRL`+`V` to load the level from your clipboard into the game.
 
 ## Editing Levels
+
+---
 
 Run Getting Over It and select New Game to make a level. If a level is already loaded, copy `blank` and paste it in-game to clear the level.
 
@@ -94,6 +100,8 @@ Add a new file `levels/levelname.txt` containing your level code. Edit [levels.m
 
 
 ## Screenshots
+
+---
 
 [![simple level](https://i.imgur.com/sSwaKIh.jpg)](https://i.imgur.com/sSwaKIh.jpg)
 [![simple level](https://i.imgur.com/pl3kn0s.png)](https://i.imgur.com/pl3kn0s.png)
