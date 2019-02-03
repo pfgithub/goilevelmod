@@ -11,6 +11,7 @@
 | Oof                            | Derpidude | 3   | 3   | [Get Code](levels/oof.txt)                      |
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              |
 | Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 |
+| Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                |
 
 <!--
 🕐︎ Where does your level end?
