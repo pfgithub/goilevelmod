@@ -8,7 +8,7 @@
 | Taller Tower  | pfg             |6 | 5 | [Get Code](levels/tallertower.txt) | N/A         |
 | Spoiler                        | Zuru             | 3   | 4   | [Get Code](levels/spoiler.txt)            | N/A         |
 
-[More Levels](https://docs.google.com/spreadsheets/d/1PiDh_Kk8_2RwIr03tHOT1qwdlY102GMFQ6_wALynjrA/edit?usp=sharing)
+### [More Levels](https://docs.google.com/spreadsheets/d/1PiDh_Kk8_2RwIr03tHOT1qwdlY102GMFQ6_wALynjrA/edit?usp=sharing)
 
 
 
