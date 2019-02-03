@@ -9,6 +9,7 @@
 | Oof                            | Derpidude | 5   | 3   | [Get Code](levels/oof.txt)                      |
 | Taller Tower                   | pfg       | 6   | 5   | [Get Code](levels/tallertower.txt)              |
 | Spoiler                        | Zuru      | 3   | 4   | [Get Code](levels/spoiler.txt)                  |
+| Icy Mountain            | Spank_That_Udder | 4   | 3   | [Get Code](levels/icyMountain.txt)              |
 
 
 ### [More Levels](https://docs.google.com/spreadsheets/d/1PiDh_Kk8_2RwIr03tHOT1qwdlY102GMFQ6_wALynjrA/edit?usp=sharing)
