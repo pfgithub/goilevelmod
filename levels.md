@@ -14,6 +14,7 @@
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              | No |
 | Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 | No |
 | Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                | Yes |
+| Manhood                          | batfish | ?   | 5   | [Get Code](levels/manhood.txt)                  | Yes |
 
 <!--
 🕐︎ Where does your level end?
