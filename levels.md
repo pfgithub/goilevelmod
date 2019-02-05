@@ -6,6 +6,7 @@
 |--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
 | It's Almost Like The Original       | Zuru | 8   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) | No | 
 | Taller Tower                         | pfg | 8   | 5   | [Get Code](levels/tallertower.txt)              | No |
+| Manhood                          | batfish | 7   | 5   | [Get Code](levels/manhood.txt)                  | No |
 | Spoiler                             | Zuru | 4   | 4   | [Get Code](levels/spoiler.txt)                  | No |
 | The Cliffs To Slippery  | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/theCliffsToSlippery.txt)      | No |
 | Shipyard                             | pfg | 4   | 2   | [Get Code](levels/shipyard.txt)                 | No |
@@ -14,7 +15,6 @@
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              | No |
 | Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 | No |
 | Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                | Yes |
-| Manhood                          | batfish | ?   | 5   | [Get Code](levels/manhood.txt)                  | Yes |
 
 <!--
 🕐︎ Where does your level end?
