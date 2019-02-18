@@ -4,7 +4,7 @@ GOI LEVEL MAKER BY
 
 SPECIAL THANKS TO
 
-pfg --- for teaching me how to duplicate things;  
+pfg --- for teaching me how to duplicate things and making this website;  
 AS13B --- for giving me an example on how to clear the background;  
 fm22 --- for testing the plugin and making special levels;  
 hongchafang --- for testing the plugin;  
