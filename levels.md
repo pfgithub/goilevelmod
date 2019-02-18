@@ -10,6 +10,7 @@
 |--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
 | 8 Chambers                       | akarres | 4   | 5   | [Get Code](levels/shipyard.txt)                 | 2.4+ |
 | Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                | 2.4+ |
+| Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 | 2.9+ |
 
 ## Unverified
 
@@ -27,7 +28,6 @@
 | Oof                            | Derpidude | 3   | 3   | [Get Code](levels/oof.txt)                      | 2.4+ |
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              | 2.4+ |
 | Parkour                             | Meuh | 3   | 5   | [Get Code](levels/parkour.txt)                  | 2.4+ |
-| Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 | 2.4+ |
 
 <!--
 🕐︎ Where does your level end?
