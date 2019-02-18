@@ -2,20 +2,32 @@
 
 > Levels are for [version 2.x](https://github.com/pfgithub/goilevelmod/releases). Version 1 is not supported.
 
-| Name                           | Author    | 🕐︎ ▼ | 😠︎ | Download                                        | Verified |
+## Verified
+
+> These levels have been beaten by their author
+
+| Name                           | Author    | 🕐︎ ▼ | 😠︎ | Download                                        | Version |
 |--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
-| It's Almost Like The Original       | Zuru | 8   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) | No | 
-| Taller Tower                         | pfg | 8   | 5   | [Get Code](levels/tallertower.txt)              | No |
-| Manhood                          | batfish | 7   | 10  | [Get Code](levels/manhood.txt)                  | No |
-| Spoiler                             | Zuru | 4   | 4   | [Get Code](levels/spoiler.txt)                  | No |
-| The Cliffs To Slippery  | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/theCliffsToSlippery.txt)      | No |
-| Shipyard                             | pfg | 4   | 2   | [Get Code](levels/shipyard.txt)                 | No |
-| 8 Chambers                       | akarres | 4   | 5   | [Get Code](levels/shipyard.txt)                 | Yes |
-| Pros Please             | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/prosPlease.txt)               | No |
-| Oof                            | Derpidude | 3   | 3   | [Get Code](levels/oof.txt)                      | No |
-| Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              | No |
-| Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 | No |
-| Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                | Yes |
+| 8 Chambers                       | akarres | 4   | 5   | [Get Code](levels/shipyard.txt)                 | 2.4+ |
+| Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                | 2.4+ |
+
+## Unverified
+
+> These levels have not been beaten by their author
+
+| Name                           | Author    | 🕐︎ ▼ | 😠︎ | Download                                        | Version |
+|--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
+| It's Almost Like The Original       | Zuru | 8   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) | 2+ | 
+| Taller Tower                         | pfg | 8   | 5   | [Get Code](levels/tallertower.txt)              | 2+ |
+| Manhood                          | batfish | 7   | 10  | [Get Code](levels/manhood.txt)                  | 2.4+ |
+| Spoiler                             | Zuru | 4   | 4   | [Get Code](levels/spoiler.txt)                  | 2.9+ |
+| The Cliffs To Slippery  | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/theCliffsToSlippery.txt)      | 2.4+ |
+| Shipyard                             | pfg | 4   | 2   | [Get Code](levels/shipyard.txt)                 | 2.4+ |
+| Pros Please             | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/prosPlease.txt)               | 2.4+ |
+| Oof                            | Derpidude | 3   | 3   | [Get Code](levels/oof.txt)                      | 2.4+ |
+| Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              | 2.4+ |
+| Parkour                             | Meuh | 3   | 5   | [Get Code](levels/parkour.txt)                  | 2.4+ |
+| Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 | 2.4+ |
 
 <!--
 🕐︎ Where does your level end?
