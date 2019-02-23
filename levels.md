@@ -8,6 +8,7 @@
 
 | Name                           | Author    | 🕐︎ ▼ | 😠︎ | Download                                        | Version |
 |--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
+| Getting Over It Remake  | Spank_That_Udder | 8   | 5   | [Get Code](levels/gettingOverItRemake.txt)      | 2.9+ |
 | Big Boys Only                    | Stillow | 5   | 8   | [Get Code](levels/bigBoysOnly.txt)              | 2.9+ |
 | 8 Chambers                       | akarres | 4   | 5   | [Get Code](levels/shipyard.txt)                 | 2.4+ |
 | Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                | 2.4+ |
