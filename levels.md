@@ -4,25 +4,47 @@
 
 ## Verified
 
-> These levels have been beaten by their author
+> These levels have been beaten
 
-| Name                           | Author    | 🕐︎ ▼ | 😠︎ | Download                                        | Version |
-|--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
-| Getting Over It Remake  | Spank_That_Udder | 8   | 5   | [Get Code](levels/gettingOverItRemake.txt)      | 2.9+ |
-| Big Boys Only                    | Stillow | 5   | 8   | [Get Code](levels/bigBoysOnly.txt)              | 2.9+ |
-| 8 Chambers                       | akarres | 4   | 5   | [Get Code](levels/shipyard.txt)                 | 2.4+ |
-| Rip Your PC                      | akarres | 2   | 2   | [Get Code](levels/ripYourPC.txt)                | 2.4+ |
-| Puzzling                             | pfg | 2   | 3   | [Get Code](levels/puzzling.txt)                 | 2.9+ |
+> ### **Getting Over It Remake** [(Get Code)](levels/gettingOverItRemake.txt)
+> by *Spank_That_Udder*  
+> **Length**: Space  
+> **Difficulty**: Moderate  
+
+> ### **Manhood** [(Get Code)](levels/manhood.txt)  
+> by *batfish*  
+> **Length**: Ice Mountain  
+> **Difficulty**: Extremely Hard  
+> **Verified by**: *Keronari*  
+
+> ### **Big Boys Only** [(Get Code)](levels/bigBoysOnly.txt)  
+> by *Stillow*  
+> **Length**: Anvil  
+> **Difficulty**: Hard  
+
+> ### **8 Chambers** [(Get Code)](levels/8chambers.txt)  
+> by *akarres*  
+> **Length**: Orange  
+> **Difficulty**: Moderate  
+
+> ### **Rip Your PC** [(Get Code)](levels/ripYourPC.txt)  
+> by *akarres*  
+> **Length**: Chimney  
+> **Difficulty**: Trivial  
+
+> ### **Puzzling** [(Get Code)](levels/puzzling.txt)  
+> by *pfg*  
+> **Length**: Chimney  
+> **Difficulty**: Easy  
 
 ## Unverified
 
-> These levels have not been beaten by their author
+> These levels have not been beaten but are probably beatable
 
 | Name                           | Author    | 🕐︎ ▼ | 😠︎ | Download                                        | Version |
 |--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
 | It's Almost Like The Original       | Zuru | 8   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) | 2+ | 
-| Taller Tower                         | pfg | 8   | 5   | [Get Code](levels/tallertower.txt)              | 2+ |
-| Manhood                          | batfish | 7   | 10  | [Get Code](levels/manhood.txt)                  | 2.4+ |
+| Taller Tower                         | pfg | 8   | 5   | [Get Code](levels/tallertower.txt)              | 2.9+ |
 | Spoiler                             | Zuru | 4   | 4   | [Get Code](levels/spoiler.txt)                  | 2.9+ |
 | The Cliffs To Slippery  | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/theCliffsToSlippery.txt)      | 2.4+ |
 | Shipyard                             | pfg | 4   | 2   | [Get Code](levels/shipyard.txt)                 | 2.4+ |
