@@ -10,6 +10,7 @@
 > by *Spank_That_Udder*  
 > **Length**: Space  
 > **Difficulty**: Moderate  
+> > Note: This level may take over a minute to load, it has many objects.
 
 > ### **Manhood** [(Get Code)](levels/manhood.txt)  
 > by *batfish*  
