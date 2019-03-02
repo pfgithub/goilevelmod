@@ -67,7 +67,7 @@
 8 = Space
 -->
 
-### [More Levels](https://docs.google.com/spreadsheets/d/1PiDh_Kk8_2RwIr03tHOT1qwdlY102GMFQ6_wALynjrA/edit?usp=sharing)
+### [More Levels](https://github.com/pfgithub/goilevelmod/raw/master/levels/morelevels.zip)
 
 [+Add your own level](https://github.com/pfgithub/goilevelmod/blob/master/README.md#sharing-levels)
 
