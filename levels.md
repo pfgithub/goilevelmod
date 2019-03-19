@@ -38,6 +38,12 @@
 > **Length**: Chimney  
 > **Difficulty**: Easy  
 
+> ### **Impossibly Possible** [(Get Code)](levels/ImpossiblyPossible.txt)  
+> by *Spank_That_Udder*  
+> **Length**: Tutorial  
+> **Difficulty**: Hard  
+> **Screenshot**: [screenshot](https://i.imgur.com/PQAl7hr.png)
+
 ## Unverified
 
 > These levels have not been beaten but are probably beatable
@@ -54,6 +60,7 @@
 | Icy Mountain            | Spank_That_Udder | 3   | 4   | [Get Code](levels/icyMountain.txt)              | 2.4+ |
 | Parkour                             | Meuh | 3   | 5   | [Get Code](levels/parkour.txt)                  | 2.4+ |
 | Possible?               | Spank_That_Udder | 3   | 3.5 | [Get Code](levels/possible.txt)                 | 2.4+ |
+| An Easy Level           | Spank_That_Udder | 3   | 5   | [Get Code](levels/AnEasyLevel.txt)              | 2.9+ |
 
 <!--
 🕐︎ Where does your level end?
