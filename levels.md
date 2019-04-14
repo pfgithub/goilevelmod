@@ -1,7 +1,5 @@
 # [Levels](https://pfgithub.github.io/goilevelmod/levels.html)
 
-> Levels are for [version 2.x](https://github.com/pfgithub/goilevelmod/releases). Version 1 is not supported.
-
 ## Verified
 
 > These levels have been beaten
@@ -52,6 +50,7 @@
 |--------------------------------|-----------|-----|-----|-------------------------------------------------| -- |
 | It's Almost Like The Original       | Zuru | 8   | 5   | [Get Code](levels/itsAlmostLikeTheOriginal.txt) | 2+ | 
 | Taller Tower                         | pfg | 8   | 5   | [Get Code](levels/tallertower.txt)              | 2.9+ |
+| Death_Mountain                     | Ajaaw | 5   | 5   | [Get Code](levels/Death_Mountain.txt)           | 2.9+ |
 | Spoiler                             | Zuru | 4   | 4   | [Get Code](levels/spoiler.txt)                  | 2.9+ |
 | The Cliffs To Slippery  | Spank_That_Udder | 4   | 3.5 | [Get Code](levels/theCliffsToSlippery.txt)      | 2.4+ |
 | Shipyard                             | pfg | 4   | 2   | [Get Code](levels/shipyard.txt)                 | 2.4+ |
